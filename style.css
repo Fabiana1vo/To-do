@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(25, 25, 85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 80vh;
+}
+
+
+.container
+{
+    background-color: #FFF;
+    min-width: 500px;
+    min-height: 100px;
+    border-radius: 20px;
+    padding: 50px;
+}
